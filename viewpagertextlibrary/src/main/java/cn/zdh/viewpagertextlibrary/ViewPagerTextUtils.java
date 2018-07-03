@@ -1,4 +1,4 @@
-package cn.zdh.viewpagertext;
+package cn.zdh.viewpagertextlibrary;
 
 import android.app.Activity;
 import android.os.Handler;

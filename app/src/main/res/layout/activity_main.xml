@@ -6,7 +6,7 @@
     tools:context="cn.zdh.viewpagertext.MainActivity">
 
     <TextSwitcher
-        android:id="@+id/home_textswitcher"
+        android:id="@+id/ts_text"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_margin="30dp" />
